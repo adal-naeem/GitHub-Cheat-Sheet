@@ -1,2 +1,2 @@
 # GitHub-Cheat-Sheet
-Git commands
+Git commands cheat sheet
